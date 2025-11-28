@@ -1,0 +1,7 @@
+{
+  "whatsapp": {
+    "button_aria_label": "Chat with us on WhatsApp",
+    "default_tooltip": "Chat with us on WhatsApp!",
+    "default_message": "Hi! I'm interested in your products."
+  }
+}
